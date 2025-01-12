@@ -1,77 +1,128 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Wajahat%20Ali&fontSize=50&fontAlign=75&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=85&descAlignY=50&animation=fadeIn"/>
+</div>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<div align="center">
+  <a href="https://wajahatali-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wajahat-ali-mern/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wajhoor2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<p align="center">
-<a href="[Your LinkedIn URL]">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="[Your GitHub URL]">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7da171f8-9ce5-4d25-84fc-dfbc6bb0e2f6.png"/>
-</a>
-</p>
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+    Hi, I'm Wajahat! | <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="Profile Views" />
+  </h3>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+### 👨‍💻 About Me :
 
-```yaml
-name: Wajahat Ali
-located_in: Bengaluru, Karnataka
-education:
-  [
-    "B.Tech in Electronics And Electronics Engineering",
-    "Bangalore Institute of Technology",
-  ]
-
-fields_of_interests:
-  [
-    "Frontend Development",
-    "Backend Development",
-    "Full Stack Development",
-    "Cloud Computing",
-  ]
-  
-currently_working: "Frontend Developer at Easework AI"
-currently_learning: ["AWS", "NestJS", "Advanced System Design"]
-2024 Goals: ["Master Next.js", "Contribute to Open Source", "Build Scalable Applications"]
+```javascript
+const wajahat = {
+    pronouns: "He" | "Him",
+    location: "Bengaluru, Karnataka 🌆",
+    education: {
+        degree: "B.Tech in Electronics And Electronics Engineering",
+        institution: "Bangalore Institute of Technology",
+        graduation: "2024"
+    },
+    currentWork: "Frontend Developer @ Easework AI",
+    techStack: {
+        frontend: ["React.js", "Next.js", "TypeScript", "Redux"],
+        backend: ["Node.js", "Express.js", "NestJS"],
+        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        cloud: ["AWS", "S3", "CloudWatch"],
+        tools: ["Git", "Docker", "Postman"]
+    },
+    currentlyLearning: ["AWS Advanced", "System Design", "NestJS"],
+    funFact: "I debug with console.log and refuse to admit it 🤫"
+};
 ```
+
+---
+
+### 🛠️ Languages and Tools :
+
+<div align="center">
   
----  
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+#### Tools & Others
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+</div>
 
 ---
 
-<h2> 🚀 &nbsp;Featured Projects</h2>
+### 🚀 Featured Projects
 
-### InfiniteDraw
-A scalable whiteboard tool built with Next.js and TypeScript
-- 🎯 Handles 1000+ users with collaborative features
-- 🚀 30% faster image processing using Sharp
-- 🔒 Enhanced security with CORS, Helmet, and rate limiting
-- 🛠️ Tech Stack: Next.js, TypeScript, Sharp, Cloudinary
+<div align="center">
+  <a href="[Project URL]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=InfiniteDraw&theme=radical" />
+  </a>
+</div>
+
+#### 🎨 InfiniteDraw
+A collaborative whiteboard tool that pushes the boundaries of real-time collaboration
+- 🚀 **Scale**: Handles 1000+ concurrent users
+- ⚡ **Performance**: 30% faster image processing with Sharp
+- 🔒 **Security**: Enterprise-grade with CORS, Helmet & rate limiting
+- 🛠️ **Stack**: Next.js, TypeScript, Sharp, Cloudinary, AWS
 
 ---
 
-<h2> 🎯 &nbsp;Professional Experience</h2>
+### 🏢 Professional Journey
 
-**Frontend Developer** @ Easework AI _(Nov 2024 - Present)_
-- Built B2B products using Next.js & React.js
-- Managed state for 10000+ users with Redux Toolkit
-- Enhanced UI with ShadCN and TailwindCSS
+<div align="left">
+  
+#### 👨‍💻 Frontend Developer @ Easework AI _(Nov 2024 - Present)_
+- 🔨 Architected B2B solutions with Next.js & React.js
+- 📈 Scaled state management for 10,000+ users
+- 🎨 Modernized UI with ShadCN & TailwindCSS
 
-**Software Developer** @ Rework AI _(Feb 2024 - Sept 2024)_
-- Developed AI-based recruiting platform
-- Implemented AWS S3 for scalable file storage
-- Monitored errors using AWS CloudWatch & Sentry
+#### 💼 Software Developer @ Rework AI _(Feb 2024 - Sept 2024)_
+- 🤖 Built AI-powered recruiting platform
+- ☁️ Implemented AWS cloud infrastructure
+- 📊 Enhanced monitoring with CloudWatch & Sentry
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=footer"/>
+</div>
