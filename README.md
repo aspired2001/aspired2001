@@ -73,9 +73,9 @@
 
 ## 📫 Get in Touch
 
-- **Email:** [Prabodhq89@gmail.com](mailto:wajhoor2001@gmail.com)
-- **LinkedIn:** [@prab101](https://www.linkedin.com/in/wajahat-ali-mern/)
-- **Twitter:** [@Sleeplessdev3](https://x.com/AliWajahat2452)
+- **Email:** [wajhoor2001@gmail.com](mailto:wajhoor2001@gmail.com)
+- **LinkedIn:** [@wajahat-ali-mern](https://www.linkedin.com/in/wajahat-ali-mern/)
+- **Twitter:** [@AliWajahat2452](https://x.com/AliWajahat2452)
 
 ---
 
