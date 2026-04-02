@@ -1,118 +1,87 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Wajahat%20Ali&fontSize=50&fontAlign=75&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=85&descAlignY=50&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <a href="https://wajahatali-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/wajahat-ali-mern/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wajhoor2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-    Hi, I'm Wajahat! | <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="Profile Views" />
-  </h3>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AWS+Cloud+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
----
-
-### 👨‍💻 About Me :
-
-```javascript
-const wajahat = {
-    pronouns: "He" | "Him",
-    location: "Bengaluru, Karnataka 🌆",
-    education: {
-        degree: "B.Tech in Electronics And Electronics Engineering",
-        institution: "Bangalore Institute of Technology",
-        graduation: "2024"
-    },
-    currentWork: "Frontend Developer @ Easework AI",
-    techStack: {
-        frontend: ["React.js", "Next.js", "TypeScript", "Redux"],
-        backend: ["Node.js", "Express.js", "NestJS"],
-        database: ["MongoDB", "PostgreSQL", "MySQL"],
-        cloud: ["AWS", "S3", "CloudWatch"],
-        tools: ["Git", "Docker", "Postman"]
-    },
-    currentlyLearning: ["AWS Advanced", "System Design", "NestJS"],
-    funFact: "I debug with console.log and refuse to admit it 🤫"
-};
-```
-
----
-
-### 🛠️ Languages and Tools :
+# Hey , It's Wajahat here!
 
 <div align="center">
   
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=aspired2001&label=PROFILE+VIEWS&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+## 👨‍💻 Full Stack Developer | Building End-to-End Applications
+
+---
+
+## 🚀 About Me
+
+- 🏫 I've pursued B.Tech in **Electrical Engineering** (India)
+- 🔭 I'm currently working on Easework-AI a frontend developer.
+- 🌱 Working on real-world full-stack projects using python and Ai Frameworks.
+- 💼 Exploring **serverless, cloud setups, frontend UI libraries**
+- 🏗️ Building & maintaining **dev-portfolio(https://wajahatali-seven.vercel.app/)**
+- 🔓 Open to exciting work opportunities
+- 🎯 Fueled by curiosity, code, and collaboration!
+
+---
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-#### Database & Cloud
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-#### Tools & Others
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajahat-ali-mern/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AliWajahat2452)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wajahatali-seven.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="[Project URL]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=InfiniteDraw&theme=radical" />
-  </a>
-</div>
-
-#### 🎨 InfiniteDraw
-A collaborative whiteboard tool that pushes the boundaries of real-time collaboration
-- 🚀 **Scale**: Handles 1000+ concurrent users
-- ⚡ **Performance**: 30% faster image processing with Sharp
-- 🔒 **Security**: Enterprise-grade with CORS, Helmet & rate limiting
-- 🛠️ **Stack**: Next.js, TypeScript, Sharp, Cloudinary, AWS
-
----
-
-### 🏢 Professional Journey
-
-<div align="left">
   
-#### 👨‍💻 Frontend Developer @ Easework AI _(Nov 2024 - Present)_
-- 🔨 Architected B2B solutions with Next.js & React.js
-- 📈 Scaled state management for 10,000+ users
-- 🎨 Modernized UI with ShadCN & TailwindCSS
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aspired2001&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-#### 💼 Software Developer @ Rework AI _(Feb 2024 - Sept 2024)_
-- 🤖 Built AI-powered recruiting platform
-- ☁️ Implemented AWS cloud infrastructure
-- 📊 Enhanced monitoring with CloudWatch & Sentry
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aspired2001&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspired2001&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aspired2001&theme=react-dark&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [Prabodhq89@gmail.com](mailto:wajhoor2001@gmail.com)
+- **LinkedIn:** [@prab101](https://www.linkedin.com/in/wajahat-ali-mern/)
+- **Twitter:** [@Sleeplessdev3](https://x.com/AliWajahat2452)
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! 😊
+
+
+</div>
